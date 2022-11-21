@@ -1,7 +1,7 @@
 # A solution for portable Raspberry Pi digital camera.
 A portable Raspberry Pi digital camera solution combining hardware (Camera, Screen, Battery) and software (Qt GUI, Ins Filters, Super Night Vision).
 
-![camera](./fig/raspy.png "camera")
+<img src="./fig/raspy.png" alt="camera" width="400"/>
 
 ---
 
